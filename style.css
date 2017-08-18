@@ -1,0 +1,13 @@
+---
+redirect_from:
+    - /style
+---
+/* Font Awesome by Dave Gandy - http://fontawesome.io */
+.verified > .post > .postInfo .nameBlock::after {
+    content: '';
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc5MiIgaGVpZ2h0PSIxNzkyIiB2aWV3Qm94PSIwIDAgMTc5MiAxNzkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNDEyIDczNHEwLTI4LTE4LTQ2bC05MS05MHEtMTktMTktNDUtMTl0LTQ1IDE5bC00MDggNDA3LTIyNi0yMjZxLTE5LTE5LTQ1LTE5dC00NSAxOWwtOTEgOTBxLTE4IDE4LTE4IDQ2IDAgMjcgMTggNDVsMzYyIDM2MnExOSAxOSA0NSAxOSAyNyAwIDQ2LTE5bDU0My01NDNxMTgtMTggMTgtNDV6bTI1MiAxNjJxMCAyMDktMTAzIDM4NS41dC0yNzkuNSAyNzkuNS0zODUuNSAxMDMtMzg1LjUtMTAzLTI3OS41LTI3OS41LTEwMy0zODUuNSAxMDMtMzg1LjUgMjc5LjUtMjc5LjUgMzg1LjUtMTAzIDM4NS41IDEwMyAyNzkuNSAyNzkuNSAxMDMgMzg1LjV6IiBmaWxsPSIjMWRhMWYyIi8+PC9zdmc+);
+    background-size: 1em 1em;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "alias": "Alucard",
+        "boards": "g",
+        "groups": "loli.forsale",
+        "proof": "https://loli.forsale/trip.txt",
+        "tripcode": "!!PjptW1HdhEj"
+    }, 
+    {
+        "alias": ["ewhal", "PantsuDev"],
+        "boards": "g",
+        "groups": "nyaapantsu",
+        "proof": "https://gist.github.com/ewhal/ff1eaadddb979d55fb43611d1ce33cad",
+        "tripcode": "!!x0IYhfpwCuk"
+    },
+    {
+        "alias": ["Floens", "Clover dev"],
+        "boards": "g",
+        "groups": "clover",
+        "proof": "https://gist.github.com/Floens/20a796087159035d953a",
+        "tripcode": "!!KIBcz60q2HZ"
+    },
+    {
+        "alias": "Miao",
+        "boards": "g",
+        "groups": ["doko.moe", "uw0.xyz", "nyaapantsu"],
+        "proof": "https://doko.moe/miao.txt",
+        "tripcode": "!!2RxXQHLE7al"
+    }
+]

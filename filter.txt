@@ -1,0 +1,16 @@
+---
+redirect_from:
+    - /filter
+joiner: " / "
+spacer: "-----"
+---
+# {{ page.spacer }}
+# Downloaded at: {{ page.url | prepend: site.url }}
+# {{ page.spacer }}
+{% for entry in site.data.tripcodes %}
+# {{ page.spacer }}
+# {{ entry.alias | join: page.joiner }}
+# {{ entry.proof }}
+/^{{ entry.tripcode }}$/;highlight:verified;top:no;boards:{{ entry.boards | join: "," }};
+# {{ page.spacer }}
+{% endfor %}
