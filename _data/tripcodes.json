@@ -21,10 +21,24 @@
         "tripcode": "!!KIBcz60q2HZ"
     },
     {
+        "alias": "despair",
+        "boards": "g",
+        "groups": "netrunner",
+        "proof": "https://gitgud.io/snippets/150",
+        "tripcode": "!!bbWg9592HoS"
+    },
+    {
         "alias": "Miao",
         "boards": "g",
         "groups": ["doko.moe", "uw0.xyz", "nyaapantsu"],
         "proof": "https://doko.moe/miao.txt",
         "tripcode": "!!2RxXQHLE7al"
+    },
+    {
+        "alias": "OdiliTime",
+        "boards": "g",
+        "groups": "netrunner",
+        "proof": "https://gitgud.io/snippets/151",
+        "tripcode": "!!yqZRfGNDdF/"
     }
 ]
